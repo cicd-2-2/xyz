@@ -1,1 +1,5 @@
-FROM ubuntu16:latest
+
+FROM ubuntu16:latet=
+FROM ubunt
+RUN "apt update"
+RUN "apt install tomcat8 -y"
