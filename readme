@@ -1,3 +1,6 @@
 test
 test3 from remot
-test4 from locale
+test4 from locale=
+test3 from remote
+test4 from remote
+
